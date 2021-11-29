@@ -1,0 +1,18 @@
+.form {
+    width:50%;
+    background-color: #B2EDC5;    
+    padding: 1rem;
+    background:linear-gradient(to right, rgb(54, 110, 150), rgb(147, 133, 226));
+    opacity: 0.7;
+    
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form:hover {
+    color:black;
+    opacity: 0.9;    
+}
