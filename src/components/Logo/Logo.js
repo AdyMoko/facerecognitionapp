@@ -2,8 +2,6 @@ import React from "react";
 import Tilt from 'react-tilt'
 import brain from './brain1.png'
 import './Logo.css'
- 
-
 
 const Logo = () => {
     return (
@@ -15,7 +13,6 @@ const Logo = () => {
             </Tilt>
         </div>
     );
-
 }
 
 export default Logo;
